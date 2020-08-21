@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Marwan Hassan - 2020
 
-You can use the [editor on GitHub](https://github.com/MarwanHassani/helloworld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Marwan m.f. Hassani will be defending his [thesis](https://drive.google.com/file/d/1mmUsOXEVejN2__VAJ6VGkLMWDfzg6wug/view?usp=sharing) on 14th september 2020 at 12:30 Hrs. Make sure you read this awesome thicc [thesis](https://drive.google.com/file/d/1mmUsOXEVejN2__VAJ6VGkLMWDfzg6wug/view?usp=sharing)!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Live stream
 
-### Markdown
+Please check this section soon for the live stream link to see Marwan glide throu his defense.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Gift Marwan for being so cool
 
-```markdown
-Syntax highlighted code block
+Marwan just bought a crib with his girl, which they are currently furnishing. Make a contribution to help make their crib to a naice sweet love crib! Do it! Send your contribution to his main man Luka. Banking details below:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MarwanHassani/helloworld/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```L. W. Picavet, NL94 RABO 0116 8657 09 ```
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For additional details, please contact any of the two paranymphs
+
+```
+Luka Picavet
+l.w.picavet@umcutrecht.nl
++31683968224
+```
+```
+Abhinandan Devaprasad
+a.devaprasad@umcutrecht.nl
++31682271713
+```
+
+This page was made by his brother from another mother. Peace.
