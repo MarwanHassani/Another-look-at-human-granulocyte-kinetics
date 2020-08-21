@@ -6,7 +6,7 @@ Marwan  Hassani will be defending his [thesis](https://drive.google.com/file/d/1
 
 Please check this section soon for the live stream link to see Marwan glide throu his defense.
 
-### Support or Contact
+### Paranymphs
 
 For additional details, please contact any of the two paranymphs
 
@@ -20,5 +20,3 @@ Abhinandan Devaprasad
 a.devaprasad@umcutrecht.nl
 +31682271713
 ```
-
-This page was made by his brother from another mother. Peace.
