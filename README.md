@@ -11,7 +11,7 @@ Please check this section soon for the live stream link of the defense.
 For additional details, please contact any of the two paranymphs
 
 ```
-Luka Picavet
+Lucas Picavet
 l.w.picavet@umcutrecht.nl
 +31683968224
 ```
