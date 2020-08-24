@@ -1,6 +1,6 @@
 ## Marwan Hassani - 2020
 
-Marwan Hassani will be defending his [thesis](https://drive.google.com/file/d/1mmUsOXEVejN2__VAJ6VGkLMWDfzg6wug/view?usp=sharing) on 14th september 2020 at 12:30 Hrs. 
+Marwan Hassani will be defending his [thesis](https://drive.google.com/file/d/1mmUsOXEVejN2__VAJ6VGkLMWDfzg6wug/view?usp=sharing) on 14th september 2020 at 12:45 Hrs. 
 
 ### Live stream
 
