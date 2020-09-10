@@ -4,7 +4,7 @@ Marwan Hassani will be defending his [thesis](https://drive.google.com/file/d/1m
 
 ### Live stream
 
-[Link](https://www.uu.nl/agenda/promotie-another-look-at-human-granulocyte-kinetics)
+[Link](https://live.starleaf.com/ODQxMDg6NjU3Nzcy)
 
 ### Paranymphs
 
